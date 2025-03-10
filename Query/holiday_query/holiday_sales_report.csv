@@ -1,0 +1,32 @@
+Year,Holiday,Sales (RM),Contribution (%)
+Enter Start Year (YYYY)   : 2014
+Enter End Year (YYYY)     : 2015
+2014,"Chinese New Year",    119303.35,  16.76%                                                                                                                                      
+2014,"Christmas Day",     62015.30,   8.71%                                                                                                                                         
+2014,"Deepavali",    114462.05,  16.08%                                                                                                                                             
+2014,"Hari Raya Aidilfitri",    117898.35,  16.56%                                                                                                                                  
+2014,"Labour Day",     56910.95,   7.99%                                                                                                                                            
+2014,"Malaysia Day",     59813.95,   8.40%                                                                                                                                          
+2014,"National Day",     58309.60,   8.19%                                                                                                                                          
+2014,"New Year's Day",     60529.55,   8.50%                                                                                                                                        
+2014,"Wesak Day",     62757.80,   8.81%                                                                                                                                             
+Total Holiday Sales,    712000.90                                                                                                                                                   
+Public Day Sales,  21390717.80                                                                                                                                                      
+Average Holiday Sales,     79111.21                                                                                                                                                 
+Average Public Day Sales,     60086.29                                                                                                                                              
+Difference In Avg (Holiday vs Public),     19024.93                                                                                                                                 
+2015,"Chinese New Year",    118500.10,  16.25%                                                                                                                                      
+2015,"Christmas Day",     60241.80,   8.26%                                                                                                                                         
+2015,"Deepavali",    129037.30,  17.70%                                                                                                                                             
+2015,"Hari Raya Aidilfitri",    121627.40,  16.68%                                                                                                                                  
+2015,"Labour Day",     59539.25,   8.17%                                                                                                                                            
+2015,"Malaysia Day",     59435.05,   8.15%                                                                                                                                          
+2015,"National Day",     57475.50,   7.88%                                                                                                                                          
+2015,"New Year's Day",     58120.75,   7.97%                                                                                                                                        
+2015,"Wesak Day",     65085.50,   8.93%                                                                                                                                             
+Total Holiday Sales,    729062.65                                                                                                                                                   
+Public Day Sales,  21425929.05                                                                                                                                                      
+Average Holiday Sales,     40503.48                                                                                                                                                 
+Average Public Day Sales,     61746.19                                                                                                                                              
+Difference In Avg (Holiday vs Public),    -21242.71                                                                                                                                 
+End of Report                                                                                                                                                                       
