@@ -1,0 +1,81 @@
+INSERT INTO temp_stall (stallId, stallSize, stallType, Availability)
+VALUES
+('S' || LPAD(stall_id_seq.NEXTVAL, 3, '0'), '3m x 3m', 'Thai Food', 'Y');
+
+INSERT INTO temp_stall (stallId, stallSize, stallType, Availability)
+VALUES
+('S' || LPAD(stall_id_seq.NEXTVAL, 3, '0'), '4m x 4m', 'Chinese Food', 'N');
+
+INSERT INTO temp_stall (stallId, stallSize, stallType, Availability)
+VALUES
+('S' || LPAD(stall_id_seq.NEXTVAL, 3, '0'), '5m x 5m', 'Japanese Food', 'Y');
+
+INSERT INTO temp_stall (stallId, stallSize, stallType, Availability)
+VALUES
+('S' || LPAD(stall_id_seq.NEXTVAL, 3, '0'), '3.5m x 3.5m', 'Korean Food', 'Y');
+
+INSERT INTO temp_stall (stallId, stallSize, stallType, Availability)
+VALUES
+('S' || LPAD(stall_id_seq.NEXTVAL, 3, '0'), '4.5m x 4.5m', 'Vietnamese Food', 'N');
+
+INSERT INTO temp_stall (stallId, stallSize, stallType, Availability)
+VALUES
+('S' || LPAD(stall_id_seq.NEXTVAL, 3, '0'), '6m x 6m', 'Indian Food', 'Y');
+
+INSERT INTO temp_stall (stallId, stallSize, stallType, Availability)
+VALUES
+('S' || LPAD(stall_id_seq.NEXTVAL, 3, '0'), '3m x 3m', 'Malay Food', 'N');
+
+INSERT INTO temp_stall (stallId, stallSize, stallType, Availability)
+VALUES
+('S' || LPAD(stall_id_seq.NEXTVAL, 3, '0'), '4m x 4m', 'Chinese Food', 'Y');
+
+INSERT INTO temp_stall (stallId, stallSize, stallType, Availability)
+VALUES
+('S' || LPAD(stall_id_seq.NEXTVAL, 3, '0'), '5m x 5m', 'Japanese Food', 'N');
+
+INSERT INTO temp_stall (stallId, stallSize, stallType, Availability)
+VALUES
+('S' || LPAD(stall_id_seq.NEXTVAL, 3, '0'), '3.5m x 3.5m', 'Korean Food', 'Y');
+
+-- Insert 10 more records into stall using sequence with actual sizes
+INSERT INTO temp_stall (stallId, stallSize, stallType, Availability)
+VALUES
+('S' || LPAD(stall_id_seq.NEXTVAL, 3, '0'), '6m x 6m', 'Mamak Food', 'Y');
+
+INSERT INTO temp_stall (stallId, stallSize, stallType, Availability)
+VALUES
+('S' || LPAD(stall_id_seq.NEXTVAL, 3, '0'), '3m x 3m', 'Indian Food', 'N');
+
+INSERT INTO temp_stall (stallId, stallSize, stallType, Availability)
+VALUES
+('S' || LPAD(stall_id_seq.NEXTVAL, 3, '0'), '4m x 4m', 'Thai Food', 'Y');
+
+INSERT INTO temp_stall (stallId, stallSize, stallType, Availability)
+VALUES
+('S' || LPAD(stall_id_seq.NEXTVAL, 3, '0'), '5m x 5m', 'Chinese Food', 'N');
+
+INSERT INTO temp_stall (stallId, stallSize, stallType, Availability)
+VALUES
+('S' || LPAD(stall_id_seq.NEXTVAL, 3, '0'), '3.5m x 3.5m', 'Japanese Food', 'Y');
+
+INSERT INTO temp_stall (stallId, stallSize, stallType, Availability)
+VALUES
+('S' || LPAD(stall_id_seq.NEXTVAL, 3, '0'), '4.5m x 4.5m', 'Korean Food', 'Y');
+
+-- Insert the remaining 4 records with actual sizes
+INSERT INTO temp_stall (stallId, stallSize, stallType, Availability)
+VALUES
+('S' || LPAD(stall_id_seq.NEXTVAL, 3, '0'), '6m x 6m', 'Malay Food', 'N');
+
+INSERT INTO temp_stall (stallId, stallSize, stallType, Availability)
+VALUES
+('S' || LPAD(stall_id_seq.NEXTVAL, 3, '0'), '3m x 3m', 'Indian Food', 'Y');
+
+INSERT INTO temp_stall (stallId, stallSize, stallType, Availability)
+VALUES
+('S' || LPAD(stall_id_seq.NEXTVAL, 3, '0'), '4m x 4m', 'Thai Food', 'N');
+
+INSERT INTO temp_stall (stallId, stallSize, stallType, Availability)
+VALUES
+('S' || LPAD(stall_id_seq.NEXTVAL, 3, '0'), '5m x 5m', 'Chinese Food', 'Y');
